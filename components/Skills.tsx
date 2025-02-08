@@ -3,12 +3,12 @@
 import { motion } from "framer-motion"
 
 const skills = [
-  { name: "JavaScript", level: 90 },
-  { name: "NextJs", level: 90 },
-  { name: "React", level: 90 },
+  { name: "JavaScript", level: 99 },
+  { name: "NextJs", level: 99 },
+  { name: "React", level: 99 },
   { name: "Node.js", level: 90 },
-  { name: "TypeScript", level: 80 },
-  { name: "GraphQL", level: 70 },
+  { name: "TypeScript", level: 85 },
+  { name: "AWS", level: 80 },
 ]
 
 export default function Skills() {

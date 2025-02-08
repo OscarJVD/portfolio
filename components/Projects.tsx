@@ -7,6 +7,7 @@ const projects = [
     id: 1,
     title: "E-commerce Platform",
     description: "A full-stack e-commerce solution built with React, Node.js, and MongoDB.",
+    
   },
   {
     id: 2,
